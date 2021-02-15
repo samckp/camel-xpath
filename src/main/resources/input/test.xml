@@ -1,0 +1,22 @@
+<envelop>
+    <envelopVerson>2.0</envelopVerson>
+    <dHeader>
+        <messageID>838OD2392349EA</messageID>
+
+        <dRule>
+            <dRuleId>RET-RT4343</dRuleId>
+            <dRuleParam>
+                <Name>Appliation_ID</Name>
+                <Value>ERFDD3</Value>
+            </dRuleParam>
+            <dRuleParam>
+                <Name>RECEIVER_BI</Name>
+                <Value>PKER</Value>
+            </dRuleParam>
+        </dRule>
+    </dHeader>
+
+     <dBody>
+         <testPaylod> <![CDATA[<?xml version="1.0" encoding="UTF-8"?> <IMDRequest> <MsgTypeRequest><DATA>534534345345345</DATA><HEADER>AASS$$#$345345345DSFGDSF</HEADER></<MsgTypeRequest> </IMDRequest> ]]> </testPaylod>
+    </dBody>
+</envelop>

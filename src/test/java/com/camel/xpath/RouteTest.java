@@ -1,4 +1,8 @@
 package com.camel.xpath;
 
-public class RouteTest extends CamelTes {
+import org.apache.camel.test.junit4.CamelTestSupport;
+
+public class RouteTest  extends CamelTestSupport
+{
+    
 }
